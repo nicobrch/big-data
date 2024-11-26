@@ -1,0 +1,3998 @@
+[
+    {
+        "prediction": 1,
+        "response_time": 0.0182
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0433
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.023
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0151
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0326
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0401
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0171
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0401
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.03
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.015
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0115
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0302
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0406
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0275
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0329
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0264
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0218
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0298
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0408
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0359
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0252
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0345
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.029
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0235
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0202
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0323
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0319
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0229
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0406
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0198
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0267
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0247
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.032
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0363
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0272
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0259
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0314
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.023
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0184
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0121
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0306
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0299
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0238
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0329
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0292
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0155
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0203
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0183
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0215
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0356
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.027
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0343
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0168
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0372
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0202
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.021
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.016
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0262
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0299
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0319
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0332
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0272
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0458
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0543
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.018
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0187
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0244
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0333
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0337
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0281
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0197
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0306
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0255
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0161
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0224
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0386
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0371
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0277
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0191
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0267
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.019
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0189
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0202
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0262
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0373
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0293
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0378
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0273
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.1405
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.1321
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0188
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0279
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0234
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0243
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0259
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0299
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0473
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0463
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0212
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0302
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0317
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.027
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.023
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0305
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0215
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.029
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0196
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0095
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0371
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0162
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0308
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0454
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.018
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.032
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.031
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0281
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0252
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0142
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0185
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.019
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0326
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.03
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0353
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0298
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0277
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0372
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.022
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.032
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0138
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0199
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0249
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.029
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0278
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0212
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0293
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.026
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.03
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0285
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.022
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0282
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0235
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.022
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0285
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0166
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0196
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0163
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0193
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0198
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0168
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0308
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0333
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0287
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0342
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.027
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.021
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.026
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.019
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0162
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.027
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0209
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.044
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0257
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0252
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0437
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0213
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.024
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0198
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0233
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0318
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0203
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0335
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0314
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0243
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0309
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0284
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0243
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0171
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0191
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0194
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0244
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0193
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0233
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0243
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.018
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0125
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.022
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0166
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0302
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0191
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0247
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0451
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.028
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.025
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.014
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0282
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0213
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0263
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0196
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0206
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0274
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0248
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0363
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0275
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0299
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0239
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0161
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0135
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0195
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0185
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.02
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0451
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0155
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0171
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0145
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0164
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0189
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0273
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0265
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0372
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0161
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.03
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0223
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0319
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.029
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0318
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.033
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0192
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0263
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0248
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0388
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.033
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0254
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0472
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0313
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0441
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0287
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.033
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.043
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.037
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0377
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0391
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0388
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0352
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0151
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0212
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0212
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0293
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0371
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.023
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0332
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0262
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0333
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.034
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0268
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0292
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0145
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0383
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0191
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0313
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0197
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0292
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0281
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0326
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.031
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0204
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0267
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0263
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0273
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0217
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0235
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.019
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0289
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0259
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0287
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.032
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.028
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.044
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.045
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.025
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0391
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0372
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.045
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0399
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0317
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0387
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0357
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0416
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.036
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.038
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0388
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0343
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.043
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0353
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0328
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0421
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0391
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0205
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0438
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0468
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0357
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0428
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0393
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0519
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0437
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0216
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0366
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0467
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0427
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0474
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0511
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0249
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0401
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0288
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0409
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0424
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0278
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0318
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0375
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0126
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0193
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0218
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0143
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0368
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0353
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0317
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0125
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0262
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0287
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0267
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0253
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0368
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0168
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0329
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0254
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0285
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0366
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.035
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0268
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0273
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.025
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0438
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0425
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0431
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0496
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0371
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0215
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0234
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0345
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0285
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0304
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0244
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0287
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.023
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0583
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0483
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0302
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.021
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0206
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.018
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0135
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0456
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0431
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0281
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0277
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0313
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0289
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0363
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0413
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0354
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0424
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0208
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0312
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0195
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.038
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.032
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0179
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0299
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0505
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0178
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0363
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0155
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0376
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0362
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0218
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.022
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0371
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0167
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0302
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0243
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0313
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0171
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0277
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0337
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.019
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.014
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0145
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.013
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0255
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0292
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0344
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0203
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.031
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0252
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0257
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0358
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.029
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0358
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0224
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0162
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0258
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.015
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.03
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0255
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0387
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0357
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0247
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0423
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0308
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0306
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0215
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0197
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0237
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0402
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0272
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0272
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0349
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0189
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0279
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0214
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0139
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0185
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.02
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0206
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0192
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0258
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0207
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0195
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0255
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0279
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0259
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0276
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.016
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.015
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0382
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0402
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0156
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0177
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0262
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0432
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0381
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.04
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.021
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0181
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0161
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.013
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0312
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0332
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0316
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0255
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.018
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0316
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0341
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0326
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0392
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0343
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0252
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.02
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.021
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0312
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0333
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0378
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0202
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0448
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.025
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.019
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0296
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.023
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0346
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0386
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0308
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0227
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0356
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0311
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.022
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0312
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0272
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0389
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0309
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0323
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0449
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0225
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0245
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0121
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0301
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0442
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0572
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0511
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.028
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.023
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.017
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0206
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0293
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0233
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0367
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0212
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0342
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0157
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0347
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0377
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0342
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0542
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0291
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0411
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.03
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0315
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0307
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0327
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0306
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0325
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.027
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0273
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0248
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0283
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0326
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0201
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0226
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0309
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0364
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0364
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0391
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0568
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0413
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.035
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0274
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0248
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0175
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0396
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0356
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0186
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0196
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0275
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.022
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0206
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0227
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0253
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0415
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0349
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0165
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0347
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0164
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0233
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0437
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0222
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0229
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0219
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0328
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0372
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0286
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0494
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0413
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0303
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0385
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0363
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0332
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0196
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0321
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0462
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0386
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0377
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0158
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0294
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0354
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0412
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0437
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0416
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.03
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0261
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0496
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0258
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0518
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0333
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.02
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.014
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0247
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0177
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0313
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0236
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0366
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0257
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0297
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0211
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0292
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0187
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0331
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0185
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0241
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.026
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0281
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0191
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0221
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0318
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0197
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.013
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0242
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0357
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0256
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0382
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0231
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0322
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0192
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0283
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0453
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.024
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0246
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.026
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0396
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0361
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0295
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0251
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0176
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0351
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0336
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0411
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0266
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0337
+    },
+    {
+        "prediction": -1,
+        "response_time": 0.0402
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0353
+    },
+    {
+        "prediction": 2,
+        "response_time": 0.0404
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0343
+    },
+    {
+        "prediction": 0,
+        "response_time": 0.0271
+    },
+    {
+        "prediction": 1,
+        "response_time": 0.0321
+    }
+]
